@@ -5,6 +5,10 @@ description = "A collection of helpers to use with discord.py"
 authors = ["vcokltfre <vcokltfre@gmail.com>"]
 license = "MIT"
 
+packages = [
+    { include = "discord/ext/helpers" }
+]
+
 [tool.poetry.dependencies]
 python = "^3.8"
 "discord.py" = "*"
