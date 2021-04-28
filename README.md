@@ -5,7 +5,7 @@ A collection of helpers to use with discord.py
 ## Installation
 
 Windows: `pip install discord-ext-helpers` \
-Linux/Mac: `pip3 insta;; discord-ext-helpers`
+Linux/Mac: `pip3 install discord-ext-helpers`
 
 ## Examples
 
